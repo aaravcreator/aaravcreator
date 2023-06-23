@@ -2,9 +2,14 @@
 - 👀 I’m interested in Python, Robotics,IOT, Embedded, Web Development...
 - 🌱 I’m currently learning Django,Vue...
 - 💞️ I’m looking to collaborate on IOT and Django ...
-- 📫 How to reach me 
-- [<img align="left" color="blue" alt="codeSTACKr | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]https://twitter.com/aarav_paudel
-- [<img align="left" color="blue" alt="codeSTACKr | Linkedin" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]https://www.linkedin.com/in/aaravpoudel/
+- 📫 How to reach me
+-  [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://aarav.com.np/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaravpoudel)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aarav_paudel)
+
+
+
+## 🔗 Links
 
 
 
